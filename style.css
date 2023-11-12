@@ -1,0 +1,218 @@
+* {
+  margin: 0;
+}
+body {
+  width: 100%;
+}
+#header {
+  display: flex;
+  background-color: #252b48;
+  height: auto;
+  justify-content: space-between;
+  padding: 16px;
+}
+#header p {
+  font-size: 36px;
+  color: #f7e987;
+  margin: 0px 10px;
+}
+#header #item {
+  display: flex;
+  font-size: 28px;
+  color: #f7e987;
+  justify-content: space-around;
+}
+#header #item a {
+  text-decoration: none;
+}
+#header #item a:hover {
+  text-decoration: underline;
+  color: #f7e987;
+}
+#main {
+  display: flex;
+  margin-top: 10px;
+  padding: 20px;
+  justify-content: space-around;
+}
+#main .img {
+  width: 100%;
+}
+#main img {
+  display: flex;
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
+#main .nike {
+  margin: auto;
+}
+#main .adidas {
+  margin: auto;
+}
+#main .jordan {
+  margin: auto;
+}
+#main .newbalance {
+  margin: auto;
+}
+#main2 {
+  display: flex;
+  margin-top: 10px;
+  padding: 20px;
+  justify-content: space-around;
+}
+#main2 .img {
+  width: 100%;
+}
+#main2 img {
+  display: flex;
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
+#main2 .converse {
+  margin: auto;
+}
+#main2 .mlb {
+  margin: auto;
+}
+#main2 .vans {
+  margin: auto;
+}
+#main2 .palladium {
+  margin: auto;
+}
+hr {
+  border: solid #5b9a8b;
+  background-color: #5b9a8b;
+  border-radius: 20px;
+  height: 2px;
+  width: 78%;
+  margin: auto;
+  margin-top: 12px;
+}
+#text1 {
+  width: 100%;
+  margin-top: 25px;
+}
+#text1 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text2 {
+  width: 100%;
+  margin-top: 2.5px;
+}
+#text2 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text3 {
+  width: 100%;
+  margin-top: 30px;
+}
+#text3 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text4 {
+  width: 100%;
+  margin-top: 25px;
+}
+#text4 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text5 {
+  width: 100%;
+  margin-top: 10px;
+}
+#text5 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text6 {
+  width: 100%;
+  margin-top: 25px;
+}
+#text6 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text7 {
+  width: 100%;
+  margin-top: 25px;
+}
+#text7 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text8 {
+  width: 100%;
+  margin-top: 25px;
+}
+#text8 img {
+  display: flex;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+}
+#text h1 {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+#text p {
+  font-size: 25px;
+  margin-left: 170px;
+}
+#text p a {
+  text-decoration: none;
+  color: #071952;
+}
+#text p a:hover {
+  text-decoration: underline;
+}
+#footer {
+  background-color: #445069;
+  margin-top: 10px;
+}
+#footer .footer {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  padding: 15px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-between;
+}
+#footer p {
+  font-size: 36px;
+  margin-top: 15px;
+  color: #f7e987;
+}
+#footer p a {
+  color: #e1e724;
+  text-decoration: none;
+}
+#footer p a:hover {
+  text-decoration: underline;
+}
+#footer .footer2 p a :hover {
+  text-decoration: underline;
+}
